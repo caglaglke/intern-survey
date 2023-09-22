@@ -1,0 +1,16 @@
+.input-container {
+  margin-bottom: 10px;
+
+  .title {
+    padding: 2px;
+    margin-block-start: 0em !important;
+    margin-block-end: 0em !important;
+  }
+
+  .input {
+    border-radius: 10px;
+    height: 30px;
+    border: 1px #d2d2d2 solid;
+    width: 45%;
+  }
+}

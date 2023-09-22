@@ -1,0 +1,19 @@
+button {
+  width: 250px;
+  height: 40px;
+  border: 0px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 18px;
+  cursor: pointer;
+
+  &.primary {
+    color: #f5fccd;
+    background-color: #12486b;
+  }
+  &.secondary {
+    color: #12486b;
+    background-color: #f5fccd;
+    border: 1px #12486b solid;
+  }
+}

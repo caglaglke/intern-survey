@@ -1,0 +1,12 @@
+{
+  "navData": [
+    {
+      "title": "Home",
+      "route": "/"
+    },
+    {
+      "title": "Clarifications",
+      "route": "/clarification"
+    }
+  ]
+}

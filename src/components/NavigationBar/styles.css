@@ -1,0 +1,16 @@
+.nav {
+    background-color: #78d6c6;
+    flex: 1;
+    padding-right: 50px;
+    display: flex;
+    justify-content: end;
+  
+    .item {
+      margin: 10px;
+      text-decoration: none;
+      color: #12486b;
+      font-weight: bold;
+      font-size: 22px;
+    }
+  }
+  
